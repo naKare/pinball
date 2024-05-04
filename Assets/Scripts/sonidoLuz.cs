@@ -6,13 +6,12 @@ public class sonidoLuz : MonoBehaviour
 {
     // Start is called before the first frame update
     public Light luz;
-    //public AudioSource audioSource; // Referencia al AudioSource que contiene el sonido a reproducir
+    
     public AudioClip sonido; 
     public float duracion = 5f; 
     private float apagar;
-    void OnCollisionEnter(Collision other)
+    private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Luuuuuuz");
         if (other.gameObject.CompareTag("Ball"))
         {
             Debug.Log("Luz");
