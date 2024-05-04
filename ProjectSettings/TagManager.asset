@@ -3,15 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Ball
-  - colisionLuz
-  - parpadeo
-  - puntos100
-  - puntos50
-  - puntos25
-  - disparo
-  - puntos
+  tags: []
   layers:
   - Default
   - TransparentFX
