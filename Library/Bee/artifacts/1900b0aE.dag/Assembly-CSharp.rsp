@@ -361,6 +361,7 @@
 "Assets/Scripts/choque.cs"
 "Assets/Scripts/colision.cs"
 "Assets/Scripts/flipperAction.cs"
+"Assets/Scripts/Fuego.cs"
 "Assets/Scripts/girar.cs"
 "Assets/Scripts/luz.cs"
 "Assets/Scripts/plungerScript.cs"
