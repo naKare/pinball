@@ -7,6 +7,11 @@ TagManager:
   - Ball
   - colisionLuz
   - parpadeo
+  - puntos100
+  - puntos50
+  - puntos25
+  - disparo
+  - puntos
   layers:
   - Default
   - TransparentFX
