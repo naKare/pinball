@@ -3,11 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Ball
-  - colisionLuz
-  - parpadeo
-  - table
+  tags: []
   layers:
   - Default
   - TransparentFX
